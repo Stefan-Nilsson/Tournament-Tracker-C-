@@ -4,6 +4,9 @@ using System.Text;
 
 namespace TrackerLibrary
 {
+    /// <summary>
+    /// Represents one team in the matchup
+    /// </summary>
     public class MatchupEntryModel
     {
         // below i will use XML comments for the first time. This is initiated by using / 3 times in a row

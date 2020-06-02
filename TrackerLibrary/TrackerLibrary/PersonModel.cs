@@ -10,7 +10,7 @@ namespace TrackerLibrary
         /// move order for top effeciency:
         /// prop tab tab, write typehint, press enter, press tab, write name, enter, enter
         /// 
-        /// This represents the first name.
+        /// This represents the first name of the person.
         /// </summary>
         public string FirstName { get; set; }
         /// <summary>
@@ -20,11 +20,11 @@ namespace TrackerLibrary
         /// Also better practice to let the user split the first and last name beforehand instead of formatting it afterwards.
         /// Someone might have a space in their first or last name. This could make things more difficult.
         /// 
-        /// This represents the last name.
+        /// This represents the last name of the person.
         /// </summary>
         public string LastName { get; set; }
         /// <summary>
-        /// This represents the email.
+        /// This represents the primary email of the person.
         /// </summary>
         public string EmailAddress { get; set; }
         /// <summary>
@@ -33,7 +33,7 @@ namespace TrackerLibrary
         /// It is what it is and it shouldn't change. 
         /// Also easier to format if it is a string, things like area code etc.
         /// 
-        /// This represents the cellphone number.
+        /// This represents the primary cellphone number of the person.
         /// </summary>
         public string CellphoneNumber { get; set; }
     }
