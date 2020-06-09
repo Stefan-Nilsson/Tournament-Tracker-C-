@@ -4,33 +4,29 @@ using System.Text;
 
 namespace TrackerLibrary
 {
+    /// <summary>
+    /// Represents what the prize is for the given place.
+    /// </summary>
     public class PrizeModel
     {
         /// <summary>
-        ///  1 = first place. 2 = second place.
-        /// 
-        /// This represents the placement in form of a number.
+        /// The numeric identifier for the place (2 for second place, etc).
         /// </summary>
         public int PlaceNumber { get; set; }
 
         /// <summary>
-        /// 1 = first place = champion. 2 = second place = runner up. or maybe 2 = second place = second.
-        /// 
-        /// This represents the name of the place.
+        /// The friendly name for the place(second place, first runner up, etc.).
         /// </summary>
         public string PlaceName { get; set; }
 
         /// <summary>
-        /// For example 100.
-        /// 
-        /// This represents the fixed prize amount.
+        /// The fixed amount this place earns or zero if it is not used.
         /// </summary>
         public decimal PrizeAmount { get; set; }
 
         /// <summary>
-        /// For example 50 percent = 50 for first place. 20 percent = 20 for second place etc.
-        /// 
-        /// This represents the percentage of the 
+        /// The number that represents the percentage of the overall take or
+        /// zero if it is not used. The percentage is a fraction of 1 (so 0.5 for 50percent).
         /// </summary>
         public double PrizePercentage { get; set; }
     }
