@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Present\\source\\repos\\Tournament-Tracker-C-\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj": {}
+    "C:\\Users\\Present\\Source\\Repos\\Tournament-Tracker-C-\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Present\\source\\repos\\Tournament-Tracker-C-\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj": {
+    "C:\\Users\\Present\\Source\\Repos\\Tournament-Tracker-C-\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Present\\source\\repos\\Tournament-Tracker-C-\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Present\\Source\\Repos\\Tournament-Tracker-C-\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
         "projectName": "TrackerLibrary",
-        "projectPath": "C:\\Users\\Present\\source\\repos\\Tournament-Tracker-C-\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
+        "projectPath": "C:\\Users\\Present\\Source\\Repos\\Tournament-Tracker-C-\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
         "packagesPath": "C:\\Users\\Present\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Present\\source\\repos\\Tournament-Tracker-C-\\TrackerLibrary\\TrackerLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Present\\Source\\Repos\\Tournament-Tracker-C-\\TrackerLibrary\\TrackerLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
