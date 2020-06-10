@@ -11,7 +11,7 @@ namespace TrackerLibrary
         // but everyone can read it
         // We use a List so we can add one or more datasources to save to and pull from
     {
-        public static List<IDataConnection> Connections { get; private set; }
+        public static List<IDataConnection> Connections { get; private set; } = new List<IDataConnection>();
 
         // this method will be called on the startup of the application to say: these are the connections I want you to set up
         // keep in mind potential updates or changes in the future
@@ -19,7 +19,9 @@ namespace TrackerLibrary
         {
             if (database)
             {
-                // TODO - Create the SQL Connection
+                // TODO - Set up the SQL Connector properly
+                SqlConnector sql = new SqlConnector();
+                Connections.Add(sql);
             }
 
             if (textFiles)
