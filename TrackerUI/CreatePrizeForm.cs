@@ -48,6 +48,12 @@ namespace TrackerUI
                 output = false;
             }
 
+            decimal prizeAmount = 0;
+            double prizePercentage = 0;
+
+            bool prizeAmountValid = decimal.TryParse(prizeAmountValue.Text, out prizeAmount);
+            bool prizePercentageValid = double.TryParse(prizePercentageValue.Text, out prizePercentage);
+
             return output;
         }
     }
