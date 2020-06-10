@@ -20,7 +20,16 @@ namespace TrackerUI
             Application.SetCompatibleTextRenderingDefault(false);
             // dont end this line, untill this instance closes (tournamentdashboardform)
             // this means that if you close the dasboardform the application will close.
-            Application.Run(new TournamentDashboardForm());
+
+            // Initialize the database connections
+            // add reference to your library while your in your form
+            // by right clicking references and add reference and select the TrackerLibrary checkbox
+            // Now everyone can use this information
+            TrackerLibrary.GlobalConfig.InitializeConnections(true, true);
+
+            Application.Run(new CreatePrizeForm());
+
+            // Application.Run(new TournamentDashboardForm());
         }
     }
 }
