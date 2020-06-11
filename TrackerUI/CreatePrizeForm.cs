@@ -22,16 +22,27 @@ namespace TrackerUI
         {
             if (ValidateForm())
             {
+                // because we created 2 constructors for PrizeModel, one empty one premade
+                // we can choose to take the empty one if we want to add our own properties
+                // Or we can, like in this case, choose to pass the four properties
                 PrizeModel model = new PrizeModel(
                     placeNameValue.Text,
                     placeNumberValue.Text,
                     prizeAmountValue.Text,
                     prizePercentageValue.Text);
 
+                // here is how we save our model
+                // you can say var or say the actual IDataConnection
+                // it loops through the list of each of our connections
                 foreach (IDataConnection db in GlobalConfig.Connections)
                 {
                     db.CreatePrize(model);
                 }
+                placeNameValue.Text = "";
+                placeNumberValue.Text = "";
+                prizeAmountValue.Text = "0";
+                prizePercentageValue.Text = "0";
+
 
             }
             else

@@ -40,6 +40,10 @@ namespace TrackerLibrary
 
         }
 
+        // Here we will do all the parses at once (overloaded constructor)
+        // So here we take these four string parameters, converted them if it was needed
+        // And put them in their respective properties
+
         public PrizeModel(string placeName, string placeNumber, string prizeAmount, string prizePercentage)
         {
             // putting the parameter inside the property you see above
