@@ -1,9 +1,0 @@
-C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.deps.json
-C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.dll
-C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.pdb
-C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csprojAssemblyReference.cache
-C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfoInputs.cache
-C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfo.cs
-C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.dll
-C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.pdb

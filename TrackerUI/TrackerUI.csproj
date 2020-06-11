@@ -37,6 +37,7 @@
       <HintPath>..\TrackerLibrary\packages\Dapper.2.0.35\lib\net461\Dapper.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -121,7 +122,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TrackerLibrary\TrackerLibrary\TrackerLibrary.csproj">
-      <Project>{939481d1-4ee3-408d-b52b-7c966a888acb}</Project>
+      <Project>{848697e7-ce37-4a02-b9a2-a1339c2c882d}</Project>
       <Name>TrackerLibrary</Name>
     </ProjectReference>
   </ItemGroup>
