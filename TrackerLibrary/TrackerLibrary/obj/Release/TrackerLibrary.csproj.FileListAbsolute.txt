@@ -1,0 +1,17 @@
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Release\TrackerLibrary.dll
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Release\TrackerLibrary.pdb
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Release\Dapper.dll
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Release\System.Security.AccessControl.dll
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Release\System.Security.Permissions.dll
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Release\Dapper.xml
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Release\System.Security.AccessControl.xml
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Release\System.Security.Permissions.xml
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\obj\Release\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\obj\Release\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\obj\Release\TrackerLibrary.csproj.CopyComplete
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\obj\Release\TrackerLibrary.dll
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerLibrary\TrackerLibrary\obj\Release\TrackerLibrary.pdb

@@ -6,3 +6,4 @@ C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerUI\obj\Debug\TrackerU
 C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
 C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
 C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\Present\Source\Repos\Tournament-Tracker-C-\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
