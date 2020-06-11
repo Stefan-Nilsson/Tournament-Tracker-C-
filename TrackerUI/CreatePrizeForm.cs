@@ -38,6 +38,8 @@ namespace TrackerUI
                 {
                     db.CreatePrize(model);
                 }
+
+                // this is to clear our form after it has passed the validation and saving
                 placeNameValue.Text = "";
                 placeNumberValue.Text = "";
                 prizeAmountValue.Text = "0";

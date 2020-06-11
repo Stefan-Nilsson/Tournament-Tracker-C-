@@ -25,6 +25,9 @@ namespace TrackerUI
             // add reference to your library while your in your form
             // by right clicking references and add reference and select the TrackerLibrary checkbox
             // Now everyone can use this information
+
+            // this wires up which database we are going to talk to
+            // In this case we're connected to both SQL and the text file
             TrackerLibrary.GlobalConfig.InitializeConnections(true, true);
 
             Application.Run(new CreatePrizeForm());
