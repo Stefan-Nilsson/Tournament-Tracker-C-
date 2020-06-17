@@ -1,2 +1,2 @@
 # Tournament Tracker C#
-On hold
+Project on hold
